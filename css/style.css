@@ -1,0 +1,38 @@
+body {
+  min-height: 4000px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.jumbotron {
+  background-color: #ddffa9;
+  padding-top: 6rem;
+}
+
+.display-4 {
+  align-items: center;
+}
+
+img {
+  height: 350px;
+  /* margin-left: 200px; */
+  /* border: 2px solid white; */
+}
+
+#projects {
+  background-color: #ddffa9;
+}
+
+.card {
+  border: 2px solid #ddffa9;
+}
+
+#contact {
+  background-color: #ddffa9;
+}
+
+footer {
+  background-color: rgb(107, 142, 35);
+}
